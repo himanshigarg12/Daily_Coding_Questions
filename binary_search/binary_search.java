@@ -1,5 +1,4 @@
 package binary_search;
-import java.util.*;
 
 public class binary_search {
     public int bs(int[] arr, int n, int target){
